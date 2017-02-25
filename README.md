@@ -1,5 +1,7 @@
-# template-atom package
+# Code Template Atom Plugin
 
-A short description of your package.
+When using Atom by Github text editor, toggling this plugin will create a template for whatever language you are using.
+Once the programming language is defined, it loads whatever text is needed to get you started on the program you are working on.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+### Prerequisites
+-Install Atom by the following instructions on the Atom website
