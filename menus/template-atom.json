@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Create a Template for this file",
+        "command": "template-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Template",
+          "submenu": [
+            {
+              "label": "Create a Template for this file",
+              "command": "template-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
