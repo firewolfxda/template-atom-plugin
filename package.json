@@ -1,14 +1,14 @@
 {
   "name": "template-atom",
   "main": "./lib/template-atom",
-  "version": "1.0",
+  "version": "0.0.0",
   "description": "When using Atom by Github text editor, toggling this plugin will create a template for whatever language you are using. Once the programming language is defined, it loads whatever text is needed to get you started on the program you are working on.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "template-atom:toggle"
   },
-  "repository": "https://github.com/atom/template-atom",
+  "repository": "https://github.com/cforno12/template-atom-plugin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
